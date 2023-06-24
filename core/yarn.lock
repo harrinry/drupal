@@ -5826,9 +5826,7 @@ netmask@^2.0.1:
   integrity sha512-dBpDMdxv9Irdq66304OLfEmQ9tbNRFnFTuZiLo+bD+r332bBmMJ8GBLXklIXXgxd3+v9+KUnZaUR5PJMa75Gsg==
 
 nightwatch@^1.6.3:
-  version "1.7.11"
-  resolved "https://registry.yarnpkg.com/nightwatch/-/nightwatch-1.7.11.tgz#b666425a8c901e17431d57fa2140a716f7894b1b"
-  integrity sha512-yV795EBXZ/myeoCvBtjC/QwvIprxF7SKh0XCeFnpoOtWXDb0yv+ATLRipKGfp+avyGtagqq38ucA4Uh6WPcnhQ==
+  version "1.7.12"
   dependencies:
     assertion-error "^1.1.0"
     chai-nightwatch "^0.4.0"
