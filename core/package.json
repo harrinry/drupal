@@ -65,7 +65,7 @@
     "chokidar": "^3.3.1",
     "chromedriver": "^87.0.0",
     "ckeditor5": "~31.1.0",
-    "cross-env": "^7.0.2",
+    "cross-env": "^10.0.0",
     "cspell": "^5.0.0",
     "css.escape": "^1.5.1",
     "dotenv-safe": "^8.2.0",
