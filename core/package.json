@@ -87,7 +87,7 @@
     "jquery-form": "^4.3.0",
     "jquery-once": "^2.2.3",
     "js-cookie": "^3.0.1",
-    "jsdom": "^18.0.1",
+    "jsdom": "^26.0.0",
     "loadjs": "^4.2.0",
     "minimist": "^1.2.2",
     "mkdirp": "^1.0.4",
